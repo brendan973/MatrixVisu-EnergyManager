@@ -1,8 +1,8 @@
 # MatrixVisu & EnergyManager
 
 Permet de faire 2 pc CC:Tweaked.
----
-# MatrixVisu:
+
+## MatrixVisu:
   * Ecran d'affichage wireless via Modem
   * Affichage de stockage de l'Induction Matrix
   * Affichage de l'état de marche des générateurs (Des four dans le cas présent)
@@ -10,7 +10,7 @@ Permet de faire 2 pc CC:Tweaked.
 
 ![MatrixVisu](./ressources/MatrixVisu-moniteur.png)
 ---
-# EnergyManager:
+## EnergyManager:
   * PC Maitre
   * Envoie des données au moniteur via Modem
   * Gestion automatique ou forcée du niveau d'énergie dans l'Induction Matrix
